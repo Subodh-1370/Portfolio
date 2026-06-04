@@ -1,6 +1,6 @@
 # 🚀 Subodh Singh - Portfolio Website
 
-A modern, responsive, and recruiter-focused portfolio website showcasing my projects, technical skills, education, and interests in Software Development, Artificial Intelligence, and Data Science.
+A modern, responsive portfolio website showcasing my projects, technical skills, education, and interests in Software Development, Artificial Intelligence, and Data Science.
 
 ## 🌐 Live Portfolio
 
