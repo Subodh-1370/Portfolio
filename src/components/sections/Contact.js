@@ -19,7 +19,7 @@ export const Contact = () => {
             transition={{ duration: 0.6 }}
           >
             <a
-              href="mailto:subodhsingh@example.com"
+              href="mailto:subodhsingh7418@gmail.com"
               className="contact-link"
             >
               <FaEnvelope />
@@ -37,7 +37,7 @@ export const Contact = () => {
             </a>
 
             <a
-              href="https://linkedin.com/in/subodhsingh"
+              href="https://www.linkedin.com/in/subodh-singh-6523391a7/"
               target="_blank"
               rel="noopener noreferrer"
               className="contact-link"

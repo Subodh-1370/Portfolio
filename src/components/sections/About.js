@@ -41,7 +41,7 @@ export const About = () => {
             <div className="education-item">
               <h4>Bachelor of Technology in Computer Science</h4>
               <p className="institution">GLA University, Mathura</p>
-              <p className="year">2020 - 2024</p>
+              <p className="year">2022 - 2026</p>
               <p className="education-description">
                 Graduated with a Bachelor of Technology in Computer Science from GLA University, Mathura. During my academic journey, I developed a strong foundation in Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Object-Oriented Programming, and Artificial Intelligence. Through coursework, projects, and practical learning, I strengthened my problem-solving abilities, programming skills, analytical thinking, and understanding of modern computing technologies.
               </p>
