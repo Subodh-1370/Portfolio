@@ -40,13 +40,11 @@ export const About = () => {
             <h3>Education</h3>
             <div className="education-item">
               <h4>Bachelor of Technology in Computer Science</h4>
-              <p className="institution">University Name</p>
+              <p className="institution">GLA University, Mathura</p>
               <p className="year">2020 - 2024</p>
-            </div>
-            <div className="education-item">
-              <h4>Higher Secondary Education</h4>
-              <p className="institution">School Name</p>
-              <p className="year">2018 - 2020</p>
+              <p className="education-description">
+                Graduated with a Bachelor of Technology in Computer Science from GLA University, Mathura. During my academic journey, I developed a strong foundation in Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Object-Oriented Programming, and Artificial Intelligence. Through coursework, projects, and practical learning, I strengthened my problem-solving abilities, programming skills, analytical thinking, and understanding of modern computing technologies.
+              </p>
             </div>
           </motion.div>
         </div>
